@@ -15,7 +15,7 @@ public class telnetJava {
 	InputStream in = null;
 	PrintStream out = null;
 	String next = "";
-	String[] list = new String[] { "notepad.exe", "firefox.exe", "iTunes.exe"};
+	String[] list = new String[] { "notepad.exe", "firefox.exe"};
 
 	public telnetJava() {
 		telnet = new TelnetClient();
