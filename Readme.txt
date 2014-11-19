@@ -1,0 +1,1 @@
+Simple example of using telnet to send commands to a laptop computer on the same heterogenous network.
